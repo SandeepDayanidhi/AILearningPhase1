@@ -1,0 +1,27 @@
+
+#1 variable name should be start with  a letter or underscore , followed by letters, numbers 
+name = "sandeep"
+age = 39
+_subject = "maths"
+
+
+#2 variable name cannot start with a number (invalid)
+
+123 = 30 #invalid variable 
+
+#3 variable name can contain only letters, numbers and underscores
+#allowed charaters : letters(A-z,a-z), numbers (0-9), and underscore(_)
+
+#4 variables name are case sensitive 
+name = "sandeep"
+NAME = "sandeeep"
+naMe = "sandeep"
+
+#5 Dontuse python variables as Variables name
+if = "pranav"
+for = "sandeep"
+
+
+#6 avoid space in variable names 
+
+
